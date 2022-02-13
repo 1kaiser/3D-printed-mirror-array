@@ -29,6 +29,7 @@ Consider just a single mirror and a single target pixel. The center of the mirro
 Since the reflected angles are the same as the incident angles for a mirror, the normal vector <img src="svgs/96b7e576d49bca2726791a8e800483cc.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=22.831379999999992pt/> of the mirror just needs to bisect these two vectors <img src="svgs/94945b86e4e6cc4bdd84868c13e2164a.svg?invert_in_darkmode" align=middle width=10.747770000000008pt height=23.488740000000007pt/> and <img src="svgs/e5784f5b8c800804946fc0bc977fa2ad.svg?invert_in_darkmode" align=middle width=10.747770000000004pt height=23.488740000000007pt/>, so we have that <img src="svgs/7bdbb6e1387a52287d660fe53d7f5617.svg?invert_in_darkmode" align=middle width=103.78697999999999pt height=29.485500000000005pt/>:
 
 ![](img/IMG_0274.jpeg)
+![](img/Illustration-of-solar-altitude-and-solar-azimuth-angles.png)
 
 Now that we know how a mirror with a given location and target needs to be angled, let's move on to generating the 3D models for the mirror frame which will hold the mirror at this point in space with this correct orientation.
 
