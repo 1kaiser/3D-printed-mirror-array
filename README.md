@@ -1,4 +1,4 @@
-# 3D printed mirror array
+# 3D printed 🪞mirror array
 # ✅<a href="https://colab.research.google.com/github/1kaiser/3D-printed-mirror-array/blob/main/🪞mirror_array.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Credits
