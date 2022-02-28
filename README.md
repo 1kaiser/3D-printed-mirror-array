@@ -6,7 +6,7 @@
 ### The "3D-printed-mirror-array" code skeleton (./3D-printed-mirror-array) was adapted from the [bencbartlett/3D-printed-mirror-array][1] repository.
 [1]: https://github.com/bencbartlett/3D-printed-mirror-array
 ## 
-
+![](https://github.com/1kaiser/3D-printed-mirror-array/blob/main/img/Untitled%20drawing%20(1).svg)
 The mirrors are angled so that just before sunset, it reflects the light from the setting sun onto the ground to spell out "MARRY ME?"
 
 ![](img/header.jpg)
